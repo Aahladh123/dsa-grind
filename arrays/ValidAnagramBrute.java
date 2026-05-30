@@ -12,4 +12,4 @@ class Solution {
 
         return Arrays.equals(a, b);
     }
-}//Time Complexity:O(nlogn), Space Complexity:O(1)/O(n)
+}
